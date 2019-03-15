@@ -1,0 +1,17 @@
+{
+  "name": "zhangyang/activeproxy",
+  "authors": [
+    {
+      "name": "张旸",
+      "email": "gordenzhang@163.com"
+    }
+  ],
+  "require": {
+    "nategood/commando": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ActiveProxy\\": "src/"
+    }
+  }
+}
